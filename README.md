@@ -93,10 +93,10 @@ python df_vis.py  # 내부에서 MultiCharacterTrajectoryExtractor 사용
   <tr>
     <td><b>결과</b></td>
     <td></td>
-    <td><img src="result/emoji.png" width="80"/></td>
-    <td><img src="result/result(가나다).png" width="80"/></td>
-    <td><img src="result/at.png" width="80"/></td>
-    <td><img src="result/and.png" width="80"/></td>
+    <td><img src="result/emoji.png" width="200"/></td>
+    <td><img src="result/result(가나다).png" width="200"/></td>
+    <td><img src="result/at.png" width="200"/></td>
+    <td><img src="result/and.png" width="200"/></td>
   </tr>
 </table>
 

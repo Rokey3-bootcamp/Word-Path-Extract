@@ -81,10 +81,10 @@ python df_vis.py  # Uses MultiCharacterTrajectoryExtractor internally
   <tr>
     <td><b>result</b></td>
     <td></td>
-    <td><img src="result/emoji.png" width="80"/></td>
-    <td><img src="result/result(가나다).png" width="80"/></td>
-    <td><img src="result/at.png" width="80"/></td>
-    <td><img src="result/and.png" width="80"/></td>
+    <td><img src="result/emoji.png" width="200"/></td>
+    <td><img src="result/result(가나다).png" width="200"/></td>
+    <td><img src="result/at.png" width="200"/></td>
+    <td><img src="result/and.png" width="200"/></td>
   </tr>
 </table>
 
