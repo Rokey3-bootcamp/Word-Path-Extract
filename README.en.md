@@ -56,7 +56,6 @@ python df_vis.py  # Uses MultiCharacterTrajectoryExtractor internally
 
 <table>
   <tr>
-    <th align="center">
     <th>input</th>
     <th></th>
     <th><img src="test/emoji.png" height="40"/></th>
@@ -65,7 +64,6 @@ python df_vis.py  # Uses MultiCharacterTrajectoryExtractor internally
     <th>"&"</th>
   </tr>
   <tr>
-    <td align="center">
     <td rowspan="2"><b>Parameter</b></td>
     <td>line thick</td>
     <td align="center">3</td>
@@ -74,15 +72,13 @@ python df_vis.py  # Uses MultiCharacterTrajectoryExtractor internally
     <td align="center">3</td>
   </tr>
   <tr>
-    <td align="center">
-    <td>sampling</td>
+    <td align="center">sampling</td>
     <td align="center">30</td>
     <td align="center">40</td>
     <td align="center">50</td>
     <td align="center">60</td>
   </tr>
   <tr>
-    <td align="center">
     <td><b>result</b></td>
     <td></td>
     <td><img src="result/emoji.png" width="80"/></td>

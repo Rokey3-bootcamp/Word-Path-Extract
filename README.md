@@ -68,7 +68,6 @@ python df_vis.py  # 내부에서 MultiCharacterTrajectoryExtractor 사용
 
 <table>
   <tr>
-    <th align="center">
     <th><b>입력</b></th>
     <th></th>
     <th><img src="test/emoji.png" height="40"/></th>
@@ -77,24 +76,21 @@ python df_vis.py  # 내부에서 MultiCharacterTrajectoryExtractor 사용
     <th>"&"</th>
   </tr>
   <tr>
-    <td align="center">
     <td rowspan="2"><b>파라미터</b></td>
-    <td>선두께</td>
+    <td align="center">선두께</td>
     <td align="center">3</td>
     <td align="center">5</td>
     <td align="center">3</td>
     <td align="center">3</td>
   </tr>
   <tr>
-    <td align="center">
-    <td>샘플링</td>
+    <td align="center">샘플링</td>
     <td align="center">30</td>
     <td align="center">40</td>
     <td align="center">50</td>
     <td align="center">60</td>
   </tr>
   <tr>
-    <td align="center">
     <td><b>결과</b></td>
     <td></td>
     <td><img src="result/emoji.png" width="80"/></td>
